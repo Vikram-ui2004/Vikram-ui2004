@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikram-Nayak
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning JavaScript 
 
 <!---
 Vikram-ui2004/Vikram-ui2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
