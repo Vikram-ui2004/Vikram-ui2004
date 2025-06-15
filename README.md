@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikram Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Something new**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eta-tan-44.vercel.app/](https://portfolio-eta-tan-44.vercel.app/)
 
-- 💬 Ask me about **HTML ,CSS & JAVASCRIPT**
+- 💬 Ask me about **Any Thing Related to Web Dev**
 
 - 📫 How to reach me **nayakvikram038@gmail.com**
 
