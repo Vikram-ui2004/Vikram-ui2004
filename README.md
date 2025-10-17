@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JvZ3gzZ3o1Mjd0cHR1a2JjZGFua2QxZHR0ajd0eDBlMXY2eTVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50px" />
   
-  <h1>Hello there, I'm Vikram Nayak</h1>
+  <h1>Hello there, I'm Vikram Nayak 👋</h1>
   
   <h3>A MERN Full Stack Developer Passionate About Building Scalable Web Applications & Backend Solutions.</h3>
   
@@ -30,8 +30,11 @@ I am an enthusiastic Frontend Developer with a strong foundation in building use
   <a href="https://github.com/Vikram-ui2004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vikram-nayak-github" height="30" width="40" />
   </a>
+  <a href="https://portfolionext-coral.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="vikram-nayak-portfolio" height="30" width="40" />
+  </a>
   <a href="mailto:nayakvikram038@gmail.com" target="blank">
-    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg)" alt="nayakvikram038-email" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="nayakvikram038-email" height="30" width="40" />
   </a>
 </p>
 </div>
@@ -102,5 +105,3 @@ Here's a selection of projects I've built.
     -   *Expected Graduation: July 2026*
 
 ---
-
-
