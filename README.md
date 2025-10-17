@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am an enthusiastic Frontend Developer with a strong foundation in building user-focused web applications with clean code and modern design practices[cite: 4, 5]. [cite_start]My goal is to apply my technical expertise to improve UI/UX performance and grow into a versatile full-stack engineer[cite: 6].
+I am an enthusiastic Frontend Developer with a strong foundation in building user-focused web applications with clean code and modern design practices. My goal is to apply my technical expertise to improve UI/UX performance and grow into a versatile full-stack engineer.
 
--   [cite_start]🚀 I build responsive and dynamic user interfaces using **React.js, JavaScript (ES6+), and Tailwind CSS**[cite: 4].
--   [cite_start]🌱 I am currently expanding my skills in backend technologies like **Node.js, Express.js, and MongoDB**[cite: 18].
--   [cite_start]💡 I have a solid understanding of **Data Structures & Algorithms and Object-Oriented Programming (OOP)** principles[cite: 18].
+-   🚀 I build responsive and dynamic user interfaces using **React.js, JavaScript (ES6+), and Tailwind CSS**.
+-   🌱 I am currently expanding my skills in backend technologies like **Node.js, Express.js, and MongoDB**.
+-   💡 I have a solid understanding of **Data Structures & Algorithms and Object-Oriented Programming (OOP)** principles.
 -   🤝 I'm always open to collaborating on exciting projects and learning new things.
 
 ---
@@ -88,26 +88,25 @@ Here's a selection of projects I've built.
 
 | Project Name      | Description                                                                                             | Tech Stack                                                     | Live Demo                                                     |
 |-------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
-| **SkillSwap** | [cite_start]A full-stack platform for users to connect and collaborate through shared skills in real-time[cite: 22, 23]. | [cite_start]React.js, MongoDB Atlas, Firebase (Auth & Firestore), ImageKit [cite: 21] | [View Project](https://skillswap-skillplatform.vercel.app)   |
-| **FreeWayStudy** | [cite_start]Offers free hand notes and PYQs with a responsive design, secure Google/GitHub auth, and a one-click portfolio generator[cite: 30, 31, 32, 33]. | [cite_start]React.js, Node.js, MongoDB, Firebase, ImageKit, AI [cite: 27] | [View Project](https://www.freewaystudy.tech)                      |
-| **DevBridge** | [cite_start]A networking platform for students and developers to connect, collaborate in real-time, and share peer-reviewed study materials[cite: 36, 37, 38]. | [cite_start]React.js, Node.js, Express.js, Firebase, ImageKit, AI [cite: 35] | [View Project](https://devbridge-app.vercel.app)              |
+| **SkillSwap** | A full-stack platform for users to connect and collaborate through shared skills in real-time. | React.js, MongoDB Atlas, Firebase (Auth & Firestore), ImageKit | [View Project](https://skillswap-skillplatform.vercel.app)   |
+| **FreeWayStudy** | Offers free hand notes and PYQs with a responsive design, secure Google/GitHub auth, and a one-click portfolio generator. | React.js, Node.js, MongoDB, Firebase, ImageKit, AI | [View Project](https://www.freewaystudy.tech)                      |
+| **DevBridge** | A networking platform for students and developers to connect, collaborate in real-time, and share peer-reviewed study materials. | React.js, Node.js, Express.js, Firebase, ImageKit, AI | [View Project](https://devbridge-app.vercel.app)              |
 
 
 ---
 
 ### 🎓 Education
 
--   [cite_start]**Institute of Applied Medicine & Research** [cite: 8]
-    -   [cite_start]Bachelor of Computer Applications (BCA) [cite: 9]
-    -   [cite_start]*Expected Graduation: July 2026* [cite: 16]
+-   **Institute of Applied Medicine & Research**
+    -   Bachelor of Computer Applications (BCA)
+    -   *Expected Graduation: July 2026*
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 🏆 Awards & Recognition
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikram-ui2004&show_icons=true&theme=radical&hide_border=true" alt="Vikram's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-ui2004&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Vikram-ui2004&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+*(This section is ready for you to add your achievements!)*
+
+-   🥇 **[Name of Your Award]** - *[Awarding Organization]* - [Year]
+-   🏅 **[Competition Achievement]** - *[Hackathon or Competition Name]* - [Date]
+-   📜 **[Name of Certification]** - *[Issuing Authority]* - [Year]
