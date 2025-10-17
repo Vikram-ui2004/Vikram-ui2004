@@ -77,7 +77,7 @@ Here are the languages, frameworks, and tools I'm proficient with:
     <td align="center"><strong>Tools & APIs</strong></td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://www.svgrepo.com/show/475654/github-color.svg)" alt="github" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     </td>
   </tr>
