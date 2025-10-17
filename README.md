@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JvZ3gzZ3o1Mjd0cHR1a2JjZGFua2QxZHR0ajd0eDBlMXY2eTVuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50px" />
+  <img src="https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870" width="200px" />
   
-  <h1>Hello there, I'm Vikram Nayak 👋</h1>
+  <h1>Hello there, I'm Vikram Nayak</h1>
   
   <h3>A MERN Full Stack Developer Passionate About Building Scalable Web Applications & Backend Solutions.</h3>
   
