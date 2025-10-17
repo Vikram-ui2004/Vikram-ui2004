@@ -31,10 +31,10 @@ I am an enthusiastic Frontend Developer with a strong foundation in building use
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vikram-nayak-github" height="30" width="40" />
   </a>
   <a href="https://portfolionext-coral.vercel.app/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="vikram-nayak-portfolio" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/192244/man-user.svg" alt="vikram-nayak-portfolio" height="30" width="40" />
   </a>
   <a href="mailto:nayakvikram038@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="nayakvikram038-email" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="nayakvikram038-email" height="30" width="40" />
   </a>
 </p>
 </div>
@@ -68,7 +68,7 @@ Here are the languages, frameworks, and tools I'm proficient with:
     <td align="center"><strong>Backend & Database</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </td>
