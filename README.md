@@ -3,7 +3,7 @@
   
   <h1>Hello there, I'm Vikram Nayak 👋</h1>
   
-  [cite_start]<h3>A MERN Full Stack Developer Passionate About Building Scalable Web Applications & Backend Solutions[cite: 2].</h3>
+  <h3>A MERN Full Stack Developer Passionate About Building Scalable Web Applications & Backend Solutions.</h3>
   
 </div>
 
@@ -106,7 +106,8 @@ Here's a selection of projects I've built.
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikram-ui2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Vikram's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-ui2004&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikram-ui2004&show_icons=true&theme=radical&hide_border=true" alt="Vikram's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-ui2004&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  
   <img src="https://github-readme-streak-stats.vercel.app/?user=Vikram-ui2004&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
