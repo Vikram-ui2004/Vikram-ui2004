@@ -106,8 +106,4 @@ Here's a selection of projects I've built.
 
 ---
 
-### 🏆 My GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vikram-ui2004&theme=radical&margin-w=15&margin-h=15" alt="Vikram's GitHub Trophies" />
-</div>
